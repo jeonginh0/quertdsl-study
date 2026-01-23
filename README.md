@@ -79,24 +79,16 @@
 ---
 
 ## 📕 8. 스프링 데이터 JPA가 제공하는 Querydsl 기능
-- [ ] 인터페이스 지원 - QuerydslPredicateExecutor
-- [ ] Querydsl Web 지원
-- [ ] 리포지토리 지원 - QuerydslRepositorySupport
-- [ ] Querydsl 지원 클래스 직접 만들기
-
----
-
-## 📎 실습 코드
-
-- GitHub:
-- 브랜치:
-- 커밋 규칙:
+- [x] 인터페이스 지원 - QuerydslPredicateExecutor **(26.1.23)**
+- [x] Querydsl Web 지원 **(26.1.23)**
+- [x] 리포지토리 지원 - QuerydslRepositorySupport **(26.1.23)**
+- [x] Querydsl 지원 클래스 직접 만들기 **(26.1.23)**
 
 ---
 
 ## ✅ 완료 체크
 
-- [ ] 전체 강의 수강 완료
-- [ ] 예제 코드 직접 작성
+- [x] 전체 강의 수강 완료 **(26.1.23)**
+- [x] 예제 코드 직접 작성 **(26.1.23)**
 - [ ] 개인 프로젝트 적용
 - [ ] 복습 1회 이상 완료
